@@ -1,0 +1,24 @@
+#sign{
+    width: 600px;
+    height: 620px;
+    
+    
+    border-radius: 20px;
+    padding-top: 40px;
+    margin-top: 200px;
+    
+    
+    
+}
+
+#m{
+     margin-left: 20px;
+     margin-right: 20px;
+    
+}
+#l{
+    margin-bottom: 20px;
+}
+#z{
+    margin-top: 15px;
+}

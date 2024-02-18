@@ -1,0 +1,21 @@
+#bg{
+    background-image: url('/src/assets/images/house.png');
+    height: 200px;
+    width: 300px;
+    background-repeat: no-repeat;
+    margin: 10px;
+    
+  background-position: center;
+  transition: background-size 7s; 
+    
+
+}
+#gb{
+    margin: 10px;
+}
+#w{
+    width: 400px;
+    margin-top: 150px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}

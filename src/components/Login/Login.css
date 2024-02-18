@@ -1,0 +1,26 @@
+
+#m{
+    height: 40%;
+    width: 45%;
+    background-color: cornflowerblue;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+    border-radius: 15px;
+    padding:20px;
+}
+#img{
+    margin-left: 150px;
+}
+#im{
+    margin-left: 200px;
+}
+#b{
+    width: 200px;
+}
+#d{
+    margin-top: 15px;
+}
+#z{
+    margin-left: 150px;
+}
